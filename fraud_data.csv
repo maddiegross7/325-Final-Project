@@ -1780,7 +1780,7 @@ trans_date_trans_time,merchant,category,amt,city,state,lat,long,city_pop,job,dob
 11-12-2020 12:36,Kris-Kertzmann,travel,7.88,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,18-10-1972,6b7742d1412057c8ff9f3b701fb6a8b5,39.139593,-122.688798,1
 11-12-2020 22:29,"""Conroy, Balistreri and Gorczany""",health_fitness,18.46,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,18-10-1972,0563199dc605dc0674419f09949d5835,39.868656,-123.337295,1
 11-12-2020 23:05,Ratke and Sons,health_fitness,17.35,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,18-10-1972,7e48fbbbc83523b3bd8e2a220c381255,38.552146,-122.519483,1
-11-12-2020 23:19,Thompson-Gleason,health_fitness,19.45,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,18-10-1972,bfde75d978bb9905a4a8c87440692a4c,39.25188,-122.490946,"1""2020-12-24 16:56:24"""
+11-12-2020 23:19,Thompson-Gleason,health_fitness,19.45,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,18-10-1972,bfde75d978bb9905a4a8c87440692a4c,39.25188,-122.490946,1
 24-12-2020 16:58,"""Hahn, Douglas and Schowalte""",travel,440.56,Meadville,MO,39.7795,-93.3014,964,Tourist information centre manager,23-12-1974,68a845f709866a0f5abb91086d15f0b8,39.419072,-93.9479,0
 24-12-2020 16:59,Erdman-Durgan,health_fitness,60.39,Crownpoint,NM,35.7206,-108.0271,5662,IT consultant,08-04-1989,17075780fd7851b2295e678298e9d197,36.123857,-107.164356,0
 24-12-2020 16:59,"""Prosacco, Kreiger and Kovacek""",home,16.13,Mound City,MO,40.1362,-95.2138,1631,Architect,20-01-1953,a38ea67ec77fe7e03dea2fb6bcc91fbc,39.984044,-96.203203,0
@@ -7779,7 +7779,7 @@ trans_date_trans_time,merchant,category,amt,city,state,lat,long,city_pop,job,dob
 31-12-2020 23:58,"""Pouros, Walker and Spence""",kids_pets,13.02,Greenview,CA,41.5403,-122.9366,308,Call centre manager,20-09-1958,bd7071fd5c9510a5594ee196368ac80e,41.973127,-123.553032,0
 31-12-2020 23:59,Reilly and Sons,health_fitness,43.77,Luray,MO,40.4931,-91.8912,519,Town planner,13-02-1966,9b1f753c79894c9f4b71f04581835ada,39.946837,-91.333331,0
 31-12-2020 23:59,Rau-Robel,kids_pets,86.88,Burbank,WA,46.1966,-118.9017,3684,Musician,29-11-1981,6c5b7c8add471975aa0fec023b2e8408,46.65834,-119.715054,0
-31-12-2020 23:59,Breitenberg LLC,travel,7.99,Mesa,ID,44.6255,-116.4493,129,Cartographer,15-12-1965,14392d723bb7737606b2700ac791b7aa,44.470525,-117.080888,"0""2019-01-01 00:00:44"""
+31-12-2020 23:59,Breitenberg LLC,travel,7.99,Mesa,ID,44.6255,-116.4493,129,Cartographer,15-12-1965,14392d723bb7737606b2700ac791b7aa,44.470525,-117.080888,0
 01-01-2019 00:00,Lind-Buckridge,entertainment,220.11,Malad City,ID,42.1808,-112.262,4154,Nature conservation officer,19-01-1962,a1a22d70485983eac12b5b88dad1cf95,43.150704,-112.154481,0
 01-01-2019 00:07,Kiehn Inc,grocery_pos,96.29,Grenada,CA,41.6125,-122.5258,589,Systems analyst,21-12-1945,413636e759663f264aae1819a4d4f231,41.65752,-122.230347,0
 01-01-2019 00:09,Beier-Hyatt,shopping_pos,7.77,High Rolls Mountain Park,NM,32.9396,-105.8189,899,Naval architect,30-08-1967,8a6293af5ed278dea14448ded2685fea,32.863258,-106.520205,0
